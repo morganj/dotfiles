@@ -15,6 +15,10 @@ Plug 'scrooloose/syntastic'
 " gitgutter - changed lines in git
 Plug 'airblade/vim-gitgutter'
 Plug 'junegunn/vim-emoji'
+
+Plug 'pangloss/vim-javascript'
+
 call plug#end()
 " nerdtree
 map <C-n> :NERDTreeToggle<CR>
+map ; :
