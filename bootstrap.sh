@@ -14,7 +14,7 @@ sudo apt-get update
 
 sudo apt-get install -y vim curl build-essential git vlc chromium-browser zsh gimp  \
     apt-transport-https ca-certificates software-properties-common docker-ce nfs-common evolution \
-    shutter docker-ce docker-compose
+    shutter docker-ce docker-compose virtualbox
 
 sudo usermod -aG docker $USER
 
